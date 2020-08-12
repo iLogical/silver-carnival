@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+!/SilverCarnival.Api/Startup.cs
+!/SilverCarnival.Api/appsettings.Development.json
+!/SilverCarnival.Api/Program.cs
+!/SilverCarnival.Api/appsettings.json
